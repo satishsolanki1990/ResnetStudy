@@ -32,6 +32,7 @@ class. There are 50000 training images and 10000 test images.
 ## Our Approach
 Resnet_50 architecture is used as base case with fix 
 100 epochs , learning Rate 0.01, Momentum 0.9. 
+
 Optimizing algorithm = SGD
 
 Following variations in architeture are tested against base case:
